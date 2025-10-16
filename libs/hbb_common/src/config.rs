@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["xiongke.dns.army"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["kkvpn.x3322.net"];
 pub const RS_PUB_KEY: &str = "vK9o2A9HCRl2JRT+SIomXuyZAUROZCZ219sT5SdMCf8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
